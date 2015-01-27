@@ -426,6 +426,13 @@ table {
     height: 145px;
 }
 
+.title-content h2 {
+    font-size: 24px;
+    padding: 5px 0;
+    font-weight: bold;
+    font-family: arial;
+}
+
 .review-content {
     margin-top: 5px;
 }
